@@ -4,7 +4,7 @@ Welcome to the live coding test for the Frontend Vue Developer position. This as
 
 This technical test aims to assess the following skills:
 
-1. Your ability to fluently utilize the Vue library or the Next.js framework (preferred 😉).
+1. Your ability to fluently utilize the Vue framework.
 2. Your ability to structure the codebase by applying best practices.
 3. Your ability to work with the provided mockup and build the UI with precision.
 
