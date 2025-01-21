@@ -1,10 +1,10 @@
-# Frontend React Assessment
+# Frontend Vue Assessment
 
-Welcome to the live coding test for the Frontend React Developer position. This assignment is designed to evaluate your skills in frontend development.
+Welcome to the live coding test for the Frontend Vue Developer position. This assignment is designed to evaluate your skills in frontend development.
 
 This technical test aims to assess the following skills:
 
-1. Your ability to fluently utilize the React library or the Next.js framework (preferred 😉).
+1. Your ability to fluently utilize the Vue library or the Next.js framework (preferred 😉).
 2. Your ability to structure the codebase by applying best practices.
 3. Your ability to work with the provided mockup and build the UI with precision.
 
